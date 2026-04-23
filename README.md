@@ -1,4 +1,4 @@
-The score-based pipeline (VE + Langevin) implemented for a single bivariate correlated Gaussian distribution and a mixture of 2D Gaussians splits into two components:
+The score-based pipeline (VE + Langevin) implemented for a single bivariate correlated Gaussian distribution N(mu, Sigma+sigma_max^2*I) and a mixture of 2D Gaussians splits into two components:
 
 1. Score learning 
 
